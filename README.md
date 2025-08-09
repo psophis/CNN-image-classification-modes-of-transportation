@@ -1,4 +1,4 @@
-![Image containing a motorbike, an airplane, a car, a ferry, a helicopter and a schooner](transportation.png)
+![Image containing a motorbike, an airplane, a car, a ferry, a helicopter and a schooner](assets/transportation.png)
 # Using three CNNs to classify images of modes of transportation
 This project compares the performance of three Convolutional Neural Network (CNN) approaches for classifying images of transportation modes (e.g., cars, ships, airplanes):
 
