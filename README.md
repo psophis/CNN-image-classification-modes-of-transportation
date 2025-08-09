@@ -1,9 +1,12 @@
+![Image containing a motorbike, an airplane, a car, a ferry, a helicopter and a schooner](transportation.png)
 # Using three CNNs to classify images of modes of transportation
 This project compares the performance of three Convolutional Neural Network (CNN) approaches for classifying images of transportation modes (e.g., cars, ships, airplanes):
 
 1. **Vanilla CNN** – A CNN model built using keras and trained from scratch.
 2. **Frozen Pre-trained ResNet** – A ResNet model pre-trained on ImageNet, with the feature extractor frozen.
 3. **Fine-tuned Pre-trained ResNet** – The same pre-trained ResNet, but fine-tuned on the transportation images.
+
+The models are trained using six of the 101 classes from [the caltech-101 dataset](https://www.kaggle.com/datasets/imbikramsaha/caltech-101).
 
 ## About
 ### Notebook structure
