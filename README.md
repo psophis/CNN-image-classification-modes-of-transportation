@@ -34,7 +34,7 @@ The models are trained using six of the 101 classes from [the caltech-101 datase
 ![Precision Recall Curves (AUC-PR) for all classes of the vanilla CNN](assets/pr_vanilla-cnn.png)
 
 #### Frozen pre-trained ResNet50
-99.09 % validation accuracy, 2.17 % top 1 percent error rate
+99.87 % validation accuracy, 6.19 % top 1 percent error rate
 ![Confusion matrix of the frozen pre-trained ResNet50](assets/cm_frozen-resnet.png)
 ![ROC curves for all classes of the frozen pre-trained ResNet50](assets/roc_frozen-resnet.png)
 ![Precision Recall Curves (AUC-PR) for all classes of the frozen pre-trained ResNet50](assets/pr_frozen-resnet.png)
